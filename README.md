@@ -3,7 +3,7 @@
 
 ## Business Problem
 
-For the user whose ID is given, 10 movie recommendations were made using item-based and user-based recommender methods. 5 suggestions from the user-based model and 5 suggestions from the item-based model and finally 10 suggestions were made from 2 models.
+10 movie recommendations were made using item-based and user-based recommender methods. 5 suggestions from the user-based model and 5 suggestions from the item-based model and finally 10 suggestions were made from 2 models.
 
 ## About Dataset
 
